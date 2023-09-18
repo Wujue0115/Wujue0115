@@ -7,6 +7,8 @@
   
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wujue0115&theme=tokyonight) | ![Wujue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wujue0115&show_icons=true&theme=tokyonight) |
 | -- | -- |
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Wujue0115?ext=contest)
   
 </div>
 
