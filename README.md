@@ -1,20 +1,27 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hi, I'm Wujue! 
-  <img src="https://komarev.com/ghpvc/?username=wujue0115&color=ff69b4"> 
+<h1>
+  Hi, I'm Wujue!
 </h1>
-<div align="center">
-  <img src="https://img.shields.io/badge/%E9%84%AD%E5%AD%90%E8%BC%BF-%E9%84%AD%E5%AD%90%E8%BC%BF?logo=LinkedIn&logoColor=%23181825&labelColor=%23ffe8d1&color=%23ffe8d1">
-  <img src="https://img.shields.io/badge/wujue0115%40gmail.com-w?logo=gmail&logoColor=%23181825&labelColor=%23ffe8d1&color=%23ffe8d1">
+
+<img src="https://komarev.com/ghpvc/?username=wujue0115&color=ff98cf&style=for-the-badge">
+
+```javascript
+const Wujue = { say: console.log };
+
+Wujue.say("I'm a front-end web developer. I love coding, enjoy the process of coding, and I'm continuously learning!");
+```
+
+<h2>Connect with me</h2>
+
+<div>
+
+<a href="https://github.com/wujue0115"><img alt="Static Badge" src="https://img.shields.io/badge/Wujue0115-%23181717?style=for-the-badge&logo=github&logoColor=%23fff" alt="github"></a>
+<a href="https://twitter.com/wujue0115"><img alt="Static Badge" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=x&logoColor=%23fff"></a>
+<a href="https://leetcode.com/Wujue0115/"><img alt="Static Badge" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116"></a>
+<a href="https://www.linkedin.com/in/tzu-yu-cheng-51a611265/"><img alt="Static Badge" src="https://img.shields.io/badge/Tzu--Yu%20Cheng-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"></a>
+<a href="mailto:wujue0115@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/wujue0115%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff"></a>
+
 </div>
-<p align="center">
-   I‘m a junior front-end web developer, mainly working with Vue, and I'm currently dedicated to learning~
-</p>
-<p align="center">
-  <strong>
-    「Passion is energy. Feel the power that comes from focusing on what excites you.」- Oprah Winfrey
-  </strong>
-</p>
+
 
 <div align="center">
   
