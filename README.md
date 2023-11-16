@@ -13,6 +13,7 @@ const Wujue = { say: console.log };
 Wujue.say("I'm a front-end web developer.");
 Wujue.say("I love coding, enjoy the process of coding, and I'm continuously learning!");
 ```
+
 </div>
 
 
@@ -25,6 +26,42 @@ Wujue.say("I love coding, enjoy the process of coding, and I'm continuously lear
 <a href="https://leetcode.com/Wujue0115/"><img alt="Static Badge" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116"></a>
 <a href="https://www.linkedin.com/in/tzu-yu-cheng-51a611265/"><img alt="Static Badge" src="https://img.shields.io/badge/Tzu--Yu%20Cheng-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"></a>
 <a href="mailto:wujue0115@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/wujue0115%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff"></a>
+
+
+<h2>
+  Tech Stack
+  <img alt="Static Badge" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=typescript&logoColor=%238e759c">
+</h2>
+<kbd>
+  <br>
+  <kbd>Languages</kbd>
+  <br>
+  <br>
+  
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br>
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23181825">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=%23fff">
+  </kbd>
+  <br>
+  <br>
+  
+  <kbd>
+    <kbd>Other Languages</kbd>
+    <br>
+    <br>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff">
+  </kbd>
+  <br>
+  <br>
+</kbd>
 
 
 <h2>
