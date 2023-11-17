@@ -11,7 +11,7 @@
 const Wujue = { say: console.log };
 
 Wujue.say("I'm a front-end web developer.");
-Wujue.say("I love coding, enjoy the process of coding, and I'm continuously learning!");
+Wujue.say("I love coding, enjoy the process, and continuously learn in my life!");
 ```
 
 </div>
@@ -32,35 +32,28 @@ Wujue.say("I love coding, enjoy the process of coding, and I'm continuously lear
   Tech Stack
   <img alt="Static Badge" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=typescript&logoColor=%238e759c">
 </h2>
+<h3>Languages</h3>
 <kbd>
-  <br>
-  <kbd>Languages</kbd>
-  <br>
-  <br>
-  
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23181825">
-    <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff">
-    <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=%23fff">
-  </kbd>
+  <kbd>Programming Languages</kbd>
   <br>
   <br>
-  
-  <kbd>
-    <kbd>Other Languages</kbd>
-    <br>
-    <br>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff">
-    <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff">
-  </kbd>
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23181825">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=%23fff">
+</kbd>
+
+<br>
+<br>
+
+<kbd>
+  <kbd>Other Languages</kbd>
   <br>
   <br>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff">
 </kbd>
 
 
