@@ -101,6 +101,41 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
 
 <!-- ==================== -->
 
+<h3>Others</h3>
+<kbd>
+  <kbd>Editor</kbd>
+  <br>
+  <br>
+  <a href="https://code.visualstudio.com/"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=%23fff">
+</a>
+</kbd>
+
+<br>
+<br>
+
+<kbd>
+  <kbd>Version Control and Tools</kbd>
+  <br>
+  <br>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23fff"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&logoColor=%23fff"></a>
+</kbd>
+
+<br>
+<br>
+
+<kbd>
+  <kbd>Database</kbd>
+  <br>
+  <br>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MONGODB-%2347A248?style=for-the-badge&logo=Mongodb&logoColor=%23fff"></a>
+  <a href="https://redis.io/"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=%23fff"></a>
+</kbd>
+
+
+
+<!-- ==================== -->
+
 <h2>
   Github Statistics
   <img alt="GitHub" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=github&logoColor=%238e759c">
