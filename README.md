@@ -140,9 +140,13 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
   Github Statistics
   <img alt="GitHub" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=github&logoColor=%238e759c">
 </h2>
+
+![Wujue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wujue0115\&border_radius=4\&bg_color=65,2e3440,8e759c\&title_color=fff\&text_color=fff\&border_color=434c5d)
+
 <img src="https://stats.dooboo.io/api/github-stats-advanced?login=Wujue0115" width="500">
-<br>
-<img src="https://camo.githubusercontent.com/77ba48ec2be0154a4db6001b94f3bab6e94a1de6a77ea616a640171564165ff6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d57756a75653031313526626f726465725f7261646975733d342662675f636f6c6f723d36352c3265333434302c386537353963267469746c655f636f6c6f723d66666626746578745f636f6c6f723d66666626626f726465725f636f6c6f723d343334633564" alt="Wujue's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Wujue0115&amp;border_radius=5&amp;bg_color=65,2e3440,8e759c&amp;title_color=fff&amp;text_color=fff&amp;border_color=434c5d" width=500>
+
+<!-- <br>
+<img src="https://camo.githubusercontent.com/77ba48ec2be0154a4db6001b94f3bab6e94a1de6a77ea616a640171564165ff6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d57756a75653031313526626f726465725f7261646975733d342662675f636f6c6f723d36352c3265333434302c386537353963267469746c655f636f6c6f723d66666626746578745f636f6c6f723d66666626626f726465725f636f6c6f723d343334633564" alt="Wujue's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Wujue0115&amp;border_radius=5&amp;bg_color=65,2e3440,8e759c&amp;title_color=fff&amp;text_color=fff&amp;border_color=434c5d" width=500> -->
 
 <!--
 ![Wujue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wujue0115\&border_radius=4\&bg_color=65,2e3440,8e759c\&title_color=fff\&text_color=fff\&border_color=434c5d)
