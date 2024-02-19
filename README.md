@@ -9,7 +9,7 @@
 ```javascript
 const Wujue = { say: console.log };
 
-Wujue.say("I'm a front-end web developer.");
+Wujue.say("I'm a web front-end developer.");
 Wujue.say("I love coding, enjoy the process, and continuously learn in my life!");
 ```
 
@@ -22,8 +22,8 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
   <img alt="Gmail" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=gmail&logoColor=%238e759c">
 </h2>
 <a href="https://github.com/wujue0115"><img alt="GitHub" src="https://img.shields.io/badge/Wujue0115-%23181717?style=for-the-badge&logo=github&logoColor=%23fff"></a>
-<a href="https://twitter.com/wujue0115"><img alt="X" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=x&logoColor=%23fff"></a>
 <a href="https://leetcode.com/Wujue0115/"><img alt="LeetCode" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116"></a>
+<a href="https://twitter.com/wujue0115"><img alt="X" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=x&logoColor=%23fff"></a>
 <a href="https://www.linkedin.com/in/tzu-yu-cheng-51a611265/"><img alt="Linkedin" src="https://img.shields.io/badge/Tzu--Yu%20Cheng-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"></a>
 <a href="mailto:wujue0115@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/wujue0115%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff"></a>
 
@@ -57,7 +57,7 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
   <img alt="Scss" src="https://img.shields.io/badge/SCSS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff">
 </kbd>
 
-<h3>Frameworks</h3>
+<h3>Libraries & Frameworks</h3>
 <kbd>
   <kbd>JavaScript FrameWorks</kbd>
   <br>
@@ -78,6 +78,14 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
   <a href="https://windicss.org/"><img alt="Windi CSS" src="https://img.shields.io/badge/Windi%20CSS-%2348B0F1?style=for-the-badge&logo=windicss&logoColor=%23fff"></a>
 </kbd>
 
+<kbd>
+  <kbd>CSS Engine</kbd>
+  <br>
+  <br>
+  <a href="https://unocss.dev/"><img alt="UnoCSS" src="https://img.shields.io/badge/UnoCSS-%23333?style=for-the-badge&logo=unocss">
+</a>
+</kbd>
+
 <br>
 <br>
 
@@ -93,7 +101,19 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
 <br>
 
 <kbd>
-  <kbd>Other FrameWorks</kbd>
+  <kbd>Data Visualizations</kbd>
+  <br>
+  <br>
+  <a href="https://echarts.apache.org/en/index.html"><img alt="Apache ECharts" src="https://img.shields.io/badge/Apache_ECharts-%23AA344D?style=for-the-badge&logo=apacheecharts"></a>
+  <a href="https://vue-chartjs.org/"><img alt="vue-chartjs" src="https://img.shields.io/badge/vue--chartjs-%23FF6384?style=for-the-badge&logo=chartdotjs&logoColor=%23fff"></a>
+  <a href="https://cesium.com/"><img alt="Cesium" src="https://img.shields.io/badge/Cesium-%236CADDF?style=for-the-badge&logo=cesium&logoColor=%23fff"></a>
+</kbd>
+
+<br>
+<br>
+
+<kbd>
+  <kbd>Python FrameWorks</kbd>
   <br>
   <br>
   <a href="https://flask.palletsprojects.com/en/3.0.x/"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=%23fff"></a>
