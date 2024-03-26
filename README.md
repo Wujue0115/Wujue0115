@@ -21,9 +21,9 @@ Wujue.say("I love coding, enjoy the process, and continuously learn in my life!"
   Connect with me
   <img alt="Gmail" src="https://img.shields.io/badge/_-%23ffffff00?style=flat-square&logo=gmail&logoColor=%238e759c">
 </h2>
-<a href="https://github.com/wujue0115"><img alt="GitHub" src="https://img.shields.io/badge/Wujue0115-%23181717?style=for-the-badge&logo=github&logoColor=%23fff"></a>
-<a href="https://leetcode.com/Wujue0115/"><img alt="LeetCode" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116"></a>
-<a href="https://twitter.com/wujue0115"><img alt="X" src="https://img.shields.io/badge/Wujue0115-%23000?style=for-the-badge&logo=x&logoColor=%23fff"></a>
+<a href="https://github.com/wujue0115"><img alt="GitHub" src="https://img.shields.io/badge/Wujue-%23181717?style=for-the-badge&logo=github&logoColor=%23fff"></a>
+<a href="https://leetcode.com/Wujue0115/"><img alt="LeetCode" src="https://img.shields.io/badge/Wujue-%23000?style=for-the-badge&logo=leetcode&logoColor=%23FFA116"></a>
+<a href="https://twitter.com/wujue0115"><img alt="X" src="https://img.shields.io/badge/Wujue-%23000?style=for-the-badge&logo=x&logoColor=%23fff"></a>
 <a href="https://www.linkedin.com/in/tzu-yu-cheng-51a611265/"><img alt="Linkedin" src="https://img.shields.io/badge/Tzu--Yu%20Cheng-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=%23fff"></a>
 <a href="mailto:wujue0115@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/wujue0115%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23fff"></a>
 
